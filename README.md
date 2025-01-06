@@ -8,4 +8,4 @@ A responsive landing page designed to showcase the luxurious experience of a cam
 <img src='./resources/5 Home.PNG'>
 <img src='./resources/6 Home.PNG'>
 <img src='./resources/7 Home.PNG'>
-<img src='./resources/7 Home.PNG'>
+<img src='./resources/8 Home.PNG'>
